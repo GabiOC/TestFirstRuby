@@ -79,7 +79,7 @@ end
 
 describe "#multiply" do
 
-  it "multiplies two numbers" do
+  it "multiplies two numbers"
 
   it "multiplies several numbers"
 
